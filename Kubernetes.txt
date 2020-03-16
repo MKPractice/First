@@ -1,3 +1,6 @@
 Kubernetes is a Orchestration
+<<<<<<< HEAD
 
 edited and saved
+=======
+>>>>>>> 2febe82405ac9bf59abc6524f95eabf287ba6ba6
