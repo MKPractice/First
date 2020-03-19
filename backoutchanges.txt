@@ -1,3 +1,5 @@
 HI hello this is a file which is to verify the backout changes 
 
+verifying checkout on this file, if this line is erased by checkout commnad then comand is working fine 
+
 
