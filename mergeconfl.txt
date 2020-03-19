@@ -1,3 +1,6 @@
 testing merge conflict on this file.
 
+<<<<<<< HEAD
 new line
+=======
+>>>>>>> mergeconfl file is committed
