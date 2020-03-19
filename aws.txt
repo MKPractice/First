@@ -1,1 +1,0 @@
-AWS is a CLoud service 
