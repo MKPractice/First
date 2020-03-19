@@ -1,0 +1,7 @@
+AwS is widely used and popular cloud service from Amazon
+
+EC2
+VPC
+RDS
+S3
+Cloudwatch
