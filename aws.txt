@@ -5,3 +5,5 @@ VPC
 RDS
 S3
 Cloudwatch
+
+and many more services 
