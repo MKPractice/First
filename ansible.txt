@@ -1,4 +1,0 @@
-a line is modified from Devtool branch by team A.
-
-we are rebasing Devtools to master branch
-
