@@ -11,7 +11,7 @@ pipeline {
      stage('Build')
      {
        steps {
-         echo "This stage is for Building
+         echo "This stage is for Building"
 	 }
 	 }
      stage('Deploy')
