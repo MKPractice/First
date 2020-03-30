@@ -1,2 +1,4 @@
 GIT is Version control system tool
 GITHUB is a repository hosting site
+
+Today i am gonna give demo class to Naveen on Git
